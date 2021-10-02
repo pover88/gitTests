@@ -10,7 +10,12 @@
 3. git push
 
 # Create or select new branch
-git checkout -b testbranch
+* Create and Select new branch: git checkout -b testbranch
+* Select branch: git checkout testbranch
+* See all branches: git branch
+
+# See last commits
+git branch -v
 
 # Create Pull Request from branch and merge to main
 TODO TODO TODO
