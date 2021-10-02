@@ -9,6 +9,7 @@
 1. git add .
 2. git commit -m "message"
 3. git push
+4. Push to specific remote branch: git push origin testbranch
 
 # Create or select new branch
 * Create and Select new branch: git checkout -b testbranch
