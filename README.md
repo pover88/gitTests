@@ -10,7 +10,7 @@
 3. git push
 
 # Create or select new branch
-TODO
+git checkout -b testbranch
 
 # Create Pull Request from branch and merge to main
 TODO
