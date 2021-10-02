@@ -2,6 +2,7 @@
 
 # Clone a repository
 * git clone https://github.com/pover88/gitTests.git
+* Get remote URL: git config --get remote.origin.url
 
 
 # Push back to repository
