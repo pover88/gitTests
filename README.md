@@ -10,7 +10,8 @@
 3. git push
 
 # Create or select new branch
-TODO
+* Create new branch: git checkout -b branchname
+* Select an existing branch: git checkout branchname
 
 # Create Pull Request from branch and merge to main
 TODO
