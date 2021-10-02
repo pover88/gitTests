@@ -1,7 +1,5 @@
 # Important Git Commands
 
-[Headers](#headers)  
-
 # Clone a repository
 * git clone https://github.com/pover88/gitTests.git
 
