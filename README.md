@@ -19,5 +19,5 @@
 # See last commits
 git branch -v
 
-# Create Pull Request from branch and merge to main
+# Pull a branch, after having received a pull request
 Hello World
