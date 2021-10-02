@@ -20,4 +20,4 @@
 git branch -v
 
 # Pull a branch, after having received a pull request
-Hello World
+git merge testbranch
