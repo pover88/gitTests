@@ -12,12 +12,19 @@
 4. Push to specific remote branch: git push origin testbranch
 
 # Create or select new branch
-* Create and Select new branch: git checkout -b testbranch
-* Select branch: git checkout testbranch
+* Create new branch: git checkout -b branchname
+* Select an existing branch: git checkout branchname
+* git checkout -b testbranch
 * See all branches: git branch
 
 # See last commits
-git branch -v
+* git branch -v
+
 
 # Pull a branch, after having received a pull request
-git merge testbranch
+* git merge testbranch
+
+
+# Create Pull Request from branch and merge to main
+* TODO TODO TODO
+
